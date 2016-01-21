@@ -29,5 +29,6 @@
     ],
     "icons": {
         "16":"images/contextMenu_16.png"
+        ,"48":"images/icon48.png"
     }
 }
